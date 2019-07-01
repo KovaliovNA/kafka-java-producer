@@ -1,0 +1,24 @@
+#Columns types of csv file 
+types:
+  id: INTEGER
+  date_time: DATE
+  site_name: INTEGER
+  posa_continent: INTEGER
+  user_location_country: INTEGER
+  user_location_region: INTEGER
+  user_location_city: INTEGER
+  orig_destination_distance: DOUBLE
+  user_id: INTEGER
+  is_mobile: BOOLEAN
+  is_package: BOOLEAN
+  channel: INTEGER
+  srch_ci: DATE
+  srch_co: DATE
+  srch_adults_cnt: INTEGER
+  srch_children_cnt: INTEGER
+  srch_rm_cnt: INTEGER
+  srch_destination_id: INTEGER
+  srch_destination_type_id: INTEGER
+  hotel_continent: INTEGER
+  hotel_country: INTEGER
+  hotel_market: INTEGER
